@@ -21,34 +21,3 @@
   width: 830px;
   height: 173px;
 }
-.Colegas__description {
-  grid-column: 1; /* Ocupa la primera columna */
-  font-family: "Inter-Regular", sans-serif;
-  font-weight: 400;
-  font-size: 24px;
-
-  line-height: 1.2;
-  margin: 0;
-  width: 738px;
-  height: 135px;
-}
-.Colegas__autor {
-  font-family: "Inter-Regular", sans-serif;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 1.2;
-  margin: 0;
-  width: 732px;
-  height: 33px;
-  text-align: right;
-}
-
-.Colegas__description-extended {
-  font-size: "Inter-Regular", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.2;
-  margin: 0;
-  width: 722px;
-  height: 182px;
-}
