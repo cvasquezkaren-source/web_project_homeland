@@ -1,0 +1,31 @@
+.Colegas__title {
+  font-family: "Inter";
+  font-weight: 900;
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  line-height: 1.2;
+  width: 720px;
+  height: 200px;
+  margin: 0 auto; /* Esto centra el elemento */
+  margin-bottom: 32px; /* Espacio hacia abajo */
+}
+
+.Colegas__subtitle {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  line-height: 1.2;
+  max-width: 720px;
+  margin: 0 auto; /* Centra el elemento */
+  margin-bottom: 64px; /* Espacio hacia la imagen */
+}
+.Colegas_imagen {
+  height: 615px;
+  width: 984px;
+  display: block; /* Importante para que margin auto funcione */
+  margin: 0 auto; /* Centra la imagen */
+  align-content: center;
+}
